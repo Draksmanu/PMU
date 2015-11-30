@@ -1,0 +1,18 @@
+.container{
+    padding-bottom: 30px;
+}
+
+.gamme{
+    font-size: 140%;
+    font-weight: bold;
+}
+
+.nom_produit{
+    font-size: 130%;
+    font-weight: bold;
+}
+
+.image{
+    height: 100px;
+    width: 100px;
+}
